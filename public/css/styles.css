@@ -45,11 +45,12 @@ p{
 }
 .buttom {
   margin-bottom: 10px;
-  border-top-left-radius: 0;
+  border-top-left-radius:  0;
   border-top-right-radius: 0;
 }
 
 .btn{
   margin-top: 5px;
   margin-bottom: 0;
+  background-color: #3A5BA0;
 }
