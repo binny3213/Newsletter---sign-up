@@ -65,10 +65,4 @@ app.listen(process.env.PORT || 3000 , function(){
 })
 
 
-//API key
-//03dae49cf76af0917d29a4d47e972f57-us17
 
-//b241ff6a0deb476df840d11a01c7df07-us17
-
-// lisd ID
-//6e62791c49
